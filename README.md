@@ -1,4 +1,4 @@
-# mikaelfilo-pino Project
+# mikaelfilo-piano Project
 
 Simple piano to play online 🎹
 
